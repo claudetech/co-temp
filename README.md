@@ -1,4 +1,5 @@
-# Wrapper to use [temp](https://github.com/bruce/node-temp) with [co](https://github.com/tj/co)
+# [temp](https://github.com/bruce/node-temp) with [co](https://github.com/tj/co)
+[![Build Status](https://travis-ci.org/claudetech/co-temp.svg)](https://travis-ci.org/claudetech/co-temp)
 
 ## Installation
 

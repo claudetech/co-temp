@@ -1,0 +1,33 @@
+{
+  "name": "co-temp",
+  "version": "0.1.0",
+  "description": "temp library wrapper for use with co",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudetech/co-temp.git"
+  },
+  "keywords": [
+    "temp",
+    "co"
+  ],
+  "author": "Daniel Perez <daniel@claudetech.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudetech/co-temp/issues"
+  },
+  "homepage": "https://github.com/claudetech/co-temp#readme",
+  "dependencies": {
+    "temp": "^0.8.1",
+    "thunkify": "^2.1.2"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "co": "^4.5.4",
+    "co-fs": "^1.2.0",
+    "mocha": "^2.2.5"
+  }
+}
